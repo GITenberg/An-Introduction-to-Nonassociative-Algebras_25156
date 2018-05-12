@@ -1,0 +1,27 @@
+_repo: An-Introduction-to-Nonassociative-Algebras_25156
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schafer, Richard D. (Richard Donald)
+    alias: Schafer, Richard Donald
+    birthdate: 1918
+    gutenberg_agent_id: '31110'
+    url: http://www.gutenberg.org/2009/agents/31110
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2008-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nonassociative algebras'
+- !lcc 'QA'
+title: An Introduction to Nonassociative Algebras
+url: http://www.gutenberg.org/ebooks/25156
