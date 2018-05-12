@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31110'
     url: http://www.gutenberg.org/2009/agents/31110
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25156#An-Introduction-to-Nonassociative-Algebras
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2008-04-24'
 gutenberg_type: Text
